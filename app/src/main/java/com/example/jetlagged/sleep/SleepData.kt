@@ -16,7 +16,7 @@
 
 package com.example.jetlagged.sleep
 
-import com.example.jetlagged.R
+import com.wijaya161001.autohighlight.R
 import java.time.Duration
 import java.time.LocalDateTime
 

@@ -33,7 +33,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.example.jetlagged.R
+import com.wijaya161001.autohighlight.R
 import com.example.jetlagged.ui.theme.SmallHeadingStyle
 
 enum class SleepTab(val title: Int) {

@@ -32,7 +32,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.jetlagged.BasicInformationalCard
 import com.example.jetlagged.HomeScreenCardHeading
-import com.example.jetlagged.R
+import com.wijaya161001.autohighlight.R
 import com.example.jetlagged.data.HeartRateOverallData
 import com.example.jetlagged.ui.theme.JetLaggedTheme
 import com.example.jetlagged.ui.theme.SmallHeadingStyle
