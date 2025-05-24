@@ -13,9 +13,9 @@
   the License.
   -->
 <resources>
-    <string name="app_name">JetLagged</string>
+    <string name="app_name">AutoHighlight</string>
     <string name="label_back">Back</string>
-    <string name="jetlagged_app_heading">JetLagged</string>
+    <string name="jetlagged_app_heading">AutoHighlight</string>
     <string name="average_time_in_bed_heading">AVG. TIME IN BED</string>
     <string name="average_sleep_time_heading">AVG. SLEEP TIME</string>
     <string name="not_implemented">Not implemented yet</string>

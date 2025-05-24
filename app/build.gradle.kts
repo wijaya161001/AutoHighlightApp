@@ -24,10 +24,10 @@ plugins {
 
 android {
     compileSdk = libs.versions.compileSdk.get().toInt()
-    namespace = "com.example.jetlagged"
+    namespace = "com.wijaya161001.autohighlight"
 
     defaultConfig {
-        applicationId = "com.example.jetlagged"
+        applicationId = "com.wijaya161001.autohighlight"
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.targetSdk.get().toInt()
         versionCode = 1
