@@ -25,13 +25,13 @@
         android:supportsRtl="true"
         android:resizeableActivity="true"
         android:enableOnBackInvokedCallback="true"
-        android:theme="@style/Theme.JetLagged">
+        android:theme="@style/Theme.Material3.DayNight.NoActionBar">
 
         <profileable android:shell="true" tools:targetApi="q" />
 
         <activity
-            android:name=".MainActivity"
-            android:theme="@style/Theme.JetLagged"
+            android:name="com.wijaya161001.autohighlight.MainActivity"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar"
             android:exported="true"
             android:configChanges="screenSize|smallestScreenSize|orientation|screenLayout|uiMode"
             android:windowSoftInputMode="adjustResize">
